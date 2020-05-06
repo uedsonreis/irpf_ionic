@@ -1,0 +1,7 @@
+{
+  "name": "irpf_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
